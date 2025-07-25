@@ -1,0 +1,47 @@
+.heading{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.img1{
+    width: 70px;
+    height: 70px;
+}
+.img2{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    bottom: 30px;
+}
+.text{
+    color: #F8BECA;
+    font-weight: 500;
+    font-size: 80px;
+    margin-bottom: 3px;
+}
+.text1{
+    font-weight: bold;
+    font-size: 30px;
+}
+.text2{
+    font-weight: bold;
+    font-size: 100px;
+}
+.part{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.btn1{
+    /* font-weight: bold; */
+    font-weight: bold;
+    margin-left: 200px;
+    padding: 5px 5px;
+    width: 100px;
+    height: 48px;
+    background-color: #7B6868;
+    color: white;
+    margin-bottom: 60px;
+    border-radius: 20px;
+}
+
